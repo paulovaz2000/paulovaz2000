@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @paulovaz2000
+- 👋 Hi, I’m @paulovaz2000 from Brazil, IT Manager, Consultant and Entrepreneur!
 - 👀 I’m interested in techology, cryptocurrencies, blockchain and classic cars.
-- 🌱 I’m currently learning Thunkable
+- 🌱 I’m currently learning Thunkable for mobile development.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me paulovaz2000@gmail.com
 
